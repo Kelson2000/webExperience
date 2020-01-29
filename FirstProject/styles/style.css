@@ -1,0 +1,48 @@
+p{
+    color: darkgrey;
+
+}
+
+p, li, h1{
+    font-family: 'Sigmar One', cursive;
+
+}
+
+p, li{
+    font-size: 20px;
+    line-height: 2;
+    letter-spacing: 1px;
+
+}
+
+h1{
+    font-size: 60px;
+    text-align: center;
+
+}
+html{
+    background-color: #47476b;
+}
+
+body{
+       width: 600px;
+       margin: 5% auto;
+       background-color: olive;
+       padding: 0 20px 20px 20px;
+        border: 1px solid black;
+}
+
+h1{
+    margin: 0;
+    padding: 10px 0;
+    color: brown;
+    text-shadow: 3px 3px 1px black;
+
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+
+
+}
